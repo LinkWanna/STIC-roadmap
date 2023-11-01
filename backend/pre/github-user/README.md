@@ -24,7 +24,10 @@
 ## 建议：
 - 请加快开始使用 ChatGPT 等AI大模型工具（工作速度的保证）
 - 无法访问网站时，首先查看是否开启代理（梯子）
+- git base中一样可以使用 cmd或者linux 命令，需要有所涉及
 
 ## 参考:
 - [Git使用教程](https://zhuanlan.zhihu.com/p/30044692)
 - [github官方文档](https://docs.github.com/zh/get-started)
+- [B站GeekHour](https://www.bilibili.com/video/BV1HM411377j/?spm_id_from=333.337.search-card.all.click)
+- [Linux命令大全](https://www.runoob.com/linux/linux-command-manual.html)
