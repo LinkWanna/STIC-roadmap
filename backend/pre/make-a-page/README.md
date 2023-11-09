@@ -24,6 +24,8 @@
 
 ## 参考:
 - [样例新闻](https://news.cctv.com/2023/11/09/ARTIfUIHff3QidzgLfM5d2Id231109.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.15)
-- [mdn 前端知识重要参考网站](https://developer.mozilla.org/zh-CN/docs/Web)
+- [mdn](https://developer.mozilla.org/zh-CN/docs/Web)
+- [W3school](https://www.w3school.com.cn/index.html)
 -  [**PxCook** - 高效易用的自动标注工具](https://www.fancynode.com.cn/pxcook)
-- 
+- [黑马程序员前端基础 ](https://www.bilibili.com/video/BV1kM4y127Li/?spm_id_from=333.999.0.0)
+
