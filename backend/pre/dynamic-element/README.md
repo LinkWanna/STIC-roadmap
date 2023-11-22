@@ -13,7 +13,7 @@
 ![Alt text](01.png)
 ![Alt text](02.png)
 ![Alt text](03.png)
-## 要求：.png
+## 要求：
 - 此次任务属于简单地使用 JavaScript 的高级用法
 - 在5～7天内完成任务闭环
 - 验收：
